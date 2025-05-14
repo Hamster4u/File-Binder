@@ -60,3 +60,5 @@ This C# application acts as a **file binder** a tool that allows multiple files 
 ### Conclusion 🎉
 
 This C# builder application is a versatile **file binder**, enabling the packaging of multiple encrypted files into a single executable with flexible drop options and in-memory execution. The combination of AES or XOR encryption with obfuscation ensures that the embedded files are protected during execution, while the cleanup process ensures minimal trace left behind on the system.
+
+https://i.pinimg.com/originals/be/ba/14/beba1482a8cf82d2212e286d5b391f9a.gif
